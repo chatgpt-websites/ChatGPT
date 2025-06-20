@@ -8,7 +8,7 @@
 
 助您在工作、学习和生活中使用上 ChatGPT ，**无限使用 ChatGPT-4、GPT-4o 和 o1**~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.ai](https://talk.lanjing.pro)**   
+**ChatGPT 中文版入口：[https://talk.lanjing.pro](https://talk.lanjing.pro)**   
 **ChatGPT 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
